@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Bachelor Degree**
 
-- 🌱 I’m currently learning **Python and Networking**
-
 - 📫 How to reach me **hro4957@rit.edu**
 
 
